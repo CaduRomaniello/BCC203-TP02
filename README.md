@@ -5,6 +5,10 @@
 * Vinicius Gabriel Angelozzi Verona de Resende
   
 ---
+### **Sobre**:
+Esse trabalho tem como objetivo analisar o desempenho de algoritmos de ordenação externa.
+  
+---
 
 ### **Execução**
 Para executar os testes mencionados no relatório, basta executar o seguinte comando baseado no sistema operacional de sua máquina:
